@@ -1,19 +1,21 @@
 ---
 layout: default
-title: "Top 10 Things To Do Before I Die"
+title: " My Top 10 "
 ---
 
 # My Top 10 Things To Do Before I Die
 
 <ul class="bucketlist">
-  <li>Train a multilingual LLM that helps millions of people</li>
-  <li>Write a book on open AI for Africa</li>
-  <li>Travel to at least 7 continents</li>
-  <li>Give a keynote at a top AI conference</li>
-  <li>Climb Mount Kilimanjaro</li>
-  <li>Contribute to global AI ethics standards</li>
-  <li>Start a non-profit for open science in Africa</li>
-  <li>Build a startup that uses AI for good</li>
-  <li>Learn to play a musical instrument</li>
-  <li>Meet and collaborate with Andrej Karpathy</li>
+  <li>Fall in love</li>
+  <li>Create a Linux distro dedicated for AI and robotics</li>
+  <li>Create an AI and robotics Python package</li>
+  <li>Build a compiler</li>
+  <li>Read 1000 books (at least 50% in AI and robotics engineering, the rest in science, technology, philosophy, religion, history, and humanity)</li>
+  <li>Be awesome &amp; kind</li>
+  <li>Wearing glasses (my passion since I was a child)</li>
+  <li>Become a parent and build a home</li>
+  <li>Start a company</li>
+  <li>Lead AI and robotics research</li>
+  <li>Create my own programming language</li>
+  <li>Design and launch a global open-source education platform for underserved communities</li>
 </ul>
