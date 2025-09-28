@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>{{ page.title }} - {{ site.title }}</title>
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <link rel="stylesheet" href="{{ "/assets/css/style.css" | relative_url }}">
+</head>
+<body>
+  <nav>
+    <a href="{{ "/" | relative_url }}">Home</a>
+    <a href="{{ "/about" | relative_url }}">About</a>
+    <a href="{{ "/blog" | relative_url }}">Blog</a>
+    <a href="{{ "/projects" | relative_url }}">Projects</a>
+    <a href="{{ "/bucketlist" | relative_url }}">Bucket List</a>
+    <a href="{{ "/contact" | relative_url }}">Contact</a>
+  </nav>
+  <main>
+    {{ content }}
+  </main>
+  <footer>
+    <div class="social">
+      <a href="mailto:marcoharuni95@gmail.com">Email</a>
+      <a href="https://github.com/drmarcoaron">GitHub</a>
+    </div>
+    <p>&copy; {{ site.time | date: '%Y' }} Marco Haruni</p>
+  </footer>
+</body>
+</html>
