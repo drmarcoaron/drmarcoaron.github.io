@@ -7,6 +7,6 @@ title: "Home"
 
 # Marco Haruni
 
-AI Researcher,Deep Learning Engineer, and Writer.  
+AI Researcher, Deep Learning Engineer, and Writer.  
 Building open models, and making AI accessible.
 
